@@ -1,5 +1,6 @@
 Lost & Found Portal
 Lost & Found Portal is a full-stack web application designed to help students, staff, or campus residents report and track lost and found items efficiently. The portal provides a user-friendly interface to report lost or found items, browse item listings, and manage user history. This project is developed using Spring Boot, Java, MySQL, and Bootstrap, with a focus on responsive and interactive UI.
+
 Features
 User Features
 User Authentication: Register, login, and secure sessions using JWT (JSON Web Token).
